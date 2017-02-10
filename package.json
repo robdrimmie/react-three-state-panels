@@ -1,0 +1,17 @@
+{
+  "name": "Panels",
+  "version": "0.0.1",
+  "description": "Container element with three levels of disclosure.",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "webpack --config webpack.config.js"
+  },
+  "dependencies": {
+    "react": "^15.4.2",
+    "react-dom": "^15.4.2"
+  },
+  "devDependencies": {
+    "webpack": "^2.2.1"
+  }
+}
